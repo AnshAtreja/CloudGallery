@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Environment variables
+server/.env
+
+# Uploads folder contents
+server/uploads/*
+!server/uploads/.gitkeep
