@@ -1,4 +1,4 @@
-# 3D Customization Studio with AI
+# CLOUD GALLERY
 
 ![Project Overview](assets/cg1.png)
 ![Project Overview](assets/cg2.png)
@@ -12,7 +12,6 @@ No need to worry about running out of space ever again on your device. With the 
 
 ### Prerequisites
 - Node.js and npm installed on your machine.
-- A valid ClipDrop API key.
 
 ### Steps
 
