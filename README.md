@@ -60,10 +60,7 @@ No need to worry about running out of space ever again on your device. With the 
 
 Watch our tutorial video to get an overview of the project:
 
-<video controls width="100%">
-    <source src="tutorial/project_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+- [Project Video](tutorials/project_video.mp4)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
