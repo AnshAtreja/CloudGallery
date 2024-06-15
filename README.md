@@ -62,7 +62,5 @@ Watch our tutorial video to get an overview of the project:
 
 - [Project Video](https://drive.google.com/file/d/1hlJY5KG9jMVsDesvZTiErT41h5uS10NK/view?usp=drive_link)
 
-- <a href="https://drive.google.com/file/d/1hlJY5KG9jMVsDesvZTiErT41h5uS10NK/view?usp=drive_link" target="_blank">Project Video</a>
-
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
