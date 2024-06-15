@@ -60,7 +60,7 @@ No need to worry about running out of space ever again on your device. With the 
 
 Watch our tutorial video to get an overview of the project:
 
-- [Project Video](tutorials/project_video.mp4)
+- [Project Video](tutorial/project_video.mp4)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
